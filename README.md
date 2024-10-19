@@ -8,11 +8,11 @@ Power BI Report Link: https://app.powerbi.com/groups/me/reports/087e61ce-d3da-43
 
 LinkedIn Post URL: https://www.linkedin.com/posts/g-devipriya_excited-to-announce-the-completion-of-activity-7253511971356979200-lWwr?utm_source=share&utm_medium=member_desktop
 
-Project Overview:
+### Project Overview:
 
 DataSpark: Illuminating Insights for Global Electronics is a comprehensive Power BI report that showcases our in-depth analysis of customer behavior, sales trends, product performance, and store operations. Through this project, we streamlined data collection processes and delivered actionable insights that have the potential to enhance decision-making in retail strategy, drive operational efficiency, and elevate profitability.
 
-Tools & Technologies:
+### Tools & Technologies:
 
 Python: The core scripting language used for data extraction, processing, and automation.
 
@@ -22,7 +22,7 @@ MySQL: The structured data storage system used to manage and retrieve vast datas
 
 Microsoft Power BI: The business intelligence tool used to visualize insights and deliver interactive reports.
 
-Key Findings:
+### Key Findings:
 
 The analysis provided critical insights that can improve both sales performance and overall profitability. Our findings pinpointed specific areas where operational enhancements could significantly impact business growth, including identifying underperforming segments and strategies to drive improvement.
 
